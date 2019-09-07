@@ -4,8 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 name = jonah
-puts "hi my name is {name} "
-
+puts "hi my name is" {name}
 
 
 
